@@ -1,12 +1,12 @@
 # Preamble
 > (This states the general purpose of your organization.)
 
-We, the students, for the promotion of good government, good sportsmanship, student activities, and the general welfare of the students of Lincoln High School, establish this Constitution of ***REPLACE TEXT***. 
+We, the students, for the promotion of good government, good sportsmanship, student activities, and the general welfare of the students of Lincoln High School, establish this Constitution of ChainLynx. 
 
 ## Article 1 – Name of Organization 
 > (This section establishes the full, official name of your club the way it will be officially recorded. )
 
-### Section A: It is resolved that the name of this organization shall be ***REPLACE TEXT*** of Lincoln High School.
+### Section A: It is resolved that the name of this organization shall be ChainLynx of Lincoln High School.
 
 ## Article 2 - Purpose 
 > (This section describes the reason your club should exist and the purpose. It is more specific than the preamble, which gives a big-picture view. This section should be the goals of your club, what you hope to accomplish.)
