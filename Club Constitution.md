@@ -17,14 +17,24 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 
 ### Section C: to bring attention to ***REPLACE TEXT***.
 
-## Article 3 – Membership
-> (This section details how to become and stay a member of this club.)
+## Article 3 – Membership & Eligibility
+> (This section details how to become a member, who is eligible to be part of this club and what they need to do to remain eligible.)
 
 ### Section A: Membership in ***REPLACE TEXT*** is established by ***REPLACE TEXT***.
 
-### Section B: Membership in ***REPLACE TEXT*** is maintained by ***REPLACE TEXT***.
+### Section B: Eligible club members are those who:
+> (Suggestions – all club members must have and maintain a cumulative GPA of ***REPLACE TEXT***.)
+* ***REPLACE TEXT*** 
+* ***REPLACE TEXT*** 
+* ***REPLACE TEXT ETC*** 
 
-# Article 4 – Elections/Selections of Officers
+### Section C: In order to maintain eligibility, club members must:
+> (Suggestions – minimum meeting attendance, fundraising requirements, etc.)
+* ***REPLACE TEXT***
+* ***REPLACE TEXT***
+* ***REPLACE TEXT ETC***
+
+## Article 4 – Elections/Selections of Officers
 > (This section lays out how new officers will be selected in this club, including when those elections will take place.)
 
 ### Section A: The following will be the officer positions within this club:
@@ -62,17 +72,4 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 1. ***REPLACE TEXT***
 1. ***REPLACE TEXT ETC***
 
-## Article 6 – Eligibility
-> (Who is eligible to be part of this club and what do they need to do to remain eligible?)
 
-### Section A: Eligible club members are those who:
-> (Suggestions – all club members must have and maintain a cumulative GPA of ***REPLACE TEXT***.)
-* ***REPLACE TEXT*** 
-* ***REPLACE TEXT*** 
-* ***REPLACE TEXT ETC*** 
-
-### Section B: In order to maintain eligibility, club members must:
-> (Suggestions – minimum meeting attendance, fundraising requirements, etc.)
-* ***REPLACE TEXT***
-* ***REPLACE TEXT***
-* ***REPLACE TEXT ETC***
