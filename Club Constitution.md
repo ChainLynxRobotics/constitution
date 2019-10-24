@@ -41,7 +41,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 > (List the offices, not the people who hold them.)
 1. President
 1. Archivist
-1. ***REPLACE TEXT ETC***
+1. Event Coordinator
 
 ### Section B: Elections will be held (how often?)
 > (How often?)
