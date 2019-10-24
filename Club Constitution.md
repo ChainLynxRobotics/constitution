@@ -42,6 +42,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 1. President
 1. Archivist
 1. Event Coordinator
+1. Press Officer
 
 ### Section B: Elections will be held (how often?)
 > (How often?)
