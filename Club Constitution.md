@@ -39,7 +39,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 
 ### Section A: The following will be the officer positions within this club:
 > (List the offices, not the people who hold them.)
-1. ***REPLACE TEXT***
+1. President
 1. ***REPLACE TEXT***
 1. ***REPLACE TEXT ETC***
 
