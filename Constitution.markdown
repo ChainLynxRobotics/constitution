@@ -25,14 +25,14 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 
 
 
-1. **Name and Purpose of Organization**<br />
-    1.1. Name<br />
-        1.1.1 It is resolved that the name of this organization of Lincoln High School shall be “ChainLynx” <br />
-    1.2. Purpose<br />
-        1.2.1. To inspire young people to be leaders and innovators, by engaging them in exciting mentor-based programs. <br />
-        1.2.2. To build science, engineering, and technology skills, and inspire innovation.<br />
-        1.2.3. To foster well-rounded life capabilities including self-confidence, communication, and leadership.<br />
-        1.2.4. To create a place for students who are interested in designing, building, coding, and business and to explore their interests and give them skills that can contribute to their careers.<br />
+#1. **Name and Purpose of Organization**<br />
+    ##1.1. Name<br />
+        ###1.1.1 It is resolved that the name of this organization of Lincoln High School shall be “ChainLynx” <br />
+    ##1.2. Purpose<br />
+        ###1.2.1. To inspire young people to be leaders and innovators, by engaging them in exciting mentor-based programs. <br />
+        ###1.2.2. To build science, engineering, and technology skills, and inspire innovation.<br />
+        ###1.2.3. To foster well-rounded life capabilities including self-confidence, communication, and leadership.<br />
+        ###1.2.4. To create a place for students who are interested in designing, building, coding, and business and to explore their interests and give them skills that can contribute to their careers.<br />
         1.2.5. To bring attention to STEM Careers and Pathways.<br />
         1.2.6. To provide students the opportunity to develop their financial, engineering and computer science skills.<br />
 2. **Membership & Eligibility**<br />
