@@ -2,7 +2,7 @@
 
 We, the students, for the promotion of good government, good sportsmanship, student activities, and the general welfare of the students of Lincoln High School, establish this Constitution of ChainLynx.
 
-## Article 1 - Name and Purpose of Organization 
+## Article 1 - Name & Purpose of Organization 
    1. Name
        1. It is resolved that the name of this organization of Lincoln High School shall be “ChainLynx” 
    2. Purpose
@@ -14,21 +14,11 @@ We, the students, for the promotion of good government, good sportsmanship, stud
        6. To provide students the opportunity to develop their financial, engineering and computer science skills.
 
 ## Article 2 – Membership & Eligibility
-> (This section details how to become a member, who is eligible to be part of this club and what they need to do to remain eligible.)
-
-### Section A: Membership in ***REPLACE TEXT*** is established by ***REPLACE TEXT***.
-
-### Section B: Eligible club members are those who:
-> (Suggestions – all club members must have and maintain a cumulative GPA of ***REPLACE TEXT***.)
-* ***REPLACE TEXT*** 
-* ***REPLACE TEXT*** 
-* ***REPLACE TEXT ETC*** 
-
-### Section C: In order to maintain eligibility, club members must:
-> (Suggestions – minimum meeting attendance, fundraising requirements, etc.)
-* ***REPLACE TEXT***
-* ***REPLACE TEXT***
-* ***REPLACE TEXT ETC***
+   1. Active club members are those who:
+        1. Follows team rules
+        2. Submits one renewal form a month
+        3. Has signed the constitution 
+   2. A member may choose to go on hiatus and will still receive alerts and messages but can’t vote
 
 ## Article 3 – Elections/Selections of Officers
 > (This section lays out how new officers will be selected in this club, including when those elections will take place.)
