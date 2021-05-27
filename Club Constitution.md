@@ -37,7 +37,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
         4. Business Lead
         5. Scouting Lead
         6. Strategy Lead
-    3. The election will be held according to the rules set out in the election rules document: [ChainLynx Election and Amendment Rules](https://docs.google.com/document/d/e/2PACX-1vRmen8Lr8fQZChMxR-5FMcucLTlNibt5KzK2aM5uJ1SwboUbdVjwTsotGXGZo3bDgMqr25-mBV5lbhj/pub "Link to web published Google document") 
+   3. The election will be held according to the rules set out in the election rules document: [ChainLynx Election and Amendment Rules](https://docs.google.com/document/d/e/2PACX-1vRmen8Lr8fQZChMxR-5FMcucLTlNibt5KzK2aM5uJ1SwboUbdVjwTsotGXGZo3bDgMqr25-mBV5lbhj/pub "Link to web published Google document") 
   
 ## Article 4 – Duties 
 > (This section describes the duties of the club and the duties of the officers within it.)
