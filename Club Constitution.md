@@ -20,29 +20,25 @@ We, the students, for the promotion of good government, good sportsmanship, stud
         3. Has signed the constitution 
    2. A member may choose to go on hiatus and will still receive alerts and messages but can’t vote
 
-## Article 3 – Elections/Selections of Officers
-> (This section lays out how new officers will be selected in this club, including when those elections will take place.)
-
-### Section A: The following will be the officer positions within this club:
-> (List the offices, not the people who hold them.)
-1. President
-1. Archivist
-1. Event Coordinator
-1. Press Officer
-1. Treasurer
-1. Drive Officer
-1. Safety Officer
-
-### Section B: Elections will be held (how often?)
-> (How often?)
-
-***REPLACE TEXT***
-
-### Section C: The election process will consist of:
-* ***REPLACE TEXT***
-* ***REPLACE TEXT***
-* ***REPLACE TEXT ETC***
-
+## Article 3 – Elections of Officers & Leads
+   1.  The team has 8 officers
+        1. President
+        2. Vice President
+        3. Assistant Officer
+        4. Safety Officer
+        5. Archivist
+        6. Treasurer
+        7. Event Coordinator
+        8. Communications Officer
+   2.  The team has 6 sub-team leads
+        1. Design Lead
+        2. Build Lead
+        3. Code Lead
+        4. Business Lead
+        5. Scouting Lead
+        6. Strategy Lead
+    3. The election will be held according to the rules set out in the election rules document: [ChainLynx Election and Amendment Rules](https://docs.google.com/document/d/e/2PACX-1vRmen8Lr8fQZChMxR-5FMcucLTlNibt5KzK2aM5uJ1SwboUbdVjwTsotGXGZo3bDgMqr25-mBV5lbhj/pub "Link to web published Google document") 
+  
 ## Article 4 – Duties 
 > (This section describes the duties of the club and the duties of the officers within it.)
 
