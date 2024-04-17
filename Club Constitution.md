@@ -33,80 +33,47 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 
 2.2.	A member may choose to go on hiatus and will still receive alerts and messages but can’t vote
 
-## Article 3 - Elections of Officers and Leads
-3.1.	The team has 8 officers
+## Article 3 - Elections of Officers
+3.1.	The team has 7 officers
 
 	3.1.1.	President
 
-	3.1.2	Vice President
+	3.1.2.	Logistics Officer
 
-	3.1.3.	Assistant Officer
+	3.1.3.	Strategy Officer
 
-	3.1.4.	Safety Officer
+	3.1.4.	Controls Officer
 
-	3.1.5.	Archivist
+	3.1.5.  Mechanical Officer
 
-	3.1.6.	Treasurer
+	3.1.6.	Buisiness & Marketing Officer
 
-	3.1.7.	Event Coordinator
-
-	3.1.8.	Communications Officer
-
-3.2.	The team has 6 Sub-team leads
-
-	3.2.1.	Design lead
-
-	3.2.2.	Build lead
-
-	3.2.3.	Code lead
-
-	3.2.4.	Business lead
-
-	3.2.5.	Scouting lead
-
-	3.2.6.	Strategy lead
+	3.1.7.	Safety Officer
 
 3.3.	The election will be held according to the rules set out in the election rules document: [ChainLynx Election Rules](https://docs.google.com/document/d/1MgXhKMtcFllOEQnpebKyiydfdwL2ZO5Uc3c27lg-qgo/edit?usp=sharing)
 
-## Article 4 - Duties
-4.1.     Officers are in charge of team management and team functions. They must follow all team rules and duties assigned with their position. 
-   4.1.1.   President - The President is in charge of team operations and runs the team
+## Article 4 - Departments
+4.1.     The team has 6 departments
+   `4.1.1.	Logistics Department`
    
-   4.1.2.   Vice President - The Vice president assists the President in their duties
+   `4.1.2.	Strategy Department`
    
-   4.1.3.   Assistant Officer - The Assistant officer fills any unfilled roles until they can be filled
+   `4.1.3.	Controls Department`
    
-   4.1.4.	Safety Officer - The safety officer enforces safety rules, and makes sure injuries are properly treated and recorded
+   `4.1.4.	Mechanical Officer`
    
-   4.1.5.	Archivist - The Archivist documents club meetings and events
+   `4.1.5.	Buisiness & Marketing Department`
    
-   4.1.6.	Treasurer - The Treasurer keeps track of the club’s money
+   `4.1.6.	Safety Department`
    
-   4.1.7.	Event Coordinator - The Event Coordinator updates the team about and coordinates club events
-   
-   4.1.8.	Communications Officer - The Communications officer represents the team.
-   
-4.2.	The Leads manage the different sub teams (specialized mini teams) within ChainLynx. 
-   4.2.1.	Design lead - runs the design sub team
-   
-   4.2.2.	Build lead - runs the build sub team
-   
-   4.2.3.	Code lead - runs the code sub team
-   
-   4.2.4.	Business lead - runs the business sub team
-   
-   4.2.5.	Scouting lead - runs the scouting sub team
-   
-   4.2.6.	Strategy lead - runs the strategy sub team
-
 ## Article 5 - Powers of the constitution 
 5.1.	The team’s Lead Coaches can overrule the constitution at any time for as long as required via an emergency declaration.
 
-5.2.	The constitution cannot be changed for any reason unless changed by an amendment using [ChainLynx Elections and Amendment Rules document](https://docs.google.com/document/d/1MgXhKMtcFllOEQnpebKyiydfdwL2ZO5Uc3c27lg-qgo/edit?usp=sharing)
+5.2.	The constitution cannot be changed for any reason unless changed by an amendment using [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
 
 5.3.	Emergency declarations and actions may be declared with the permission of the team’s Lead Coaches and must be announced to the team and added to the bottom of the constitution 
 
-5.4.	The ChainLynx rules document or the ChainLynx Elections and Amendment Rules document can be changed using the rules to change the rules documents in the ChainLynx Elections and Amendment Rules document
+5.4.	All linked documents can be changed using the amendment rules section of the [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
 
 ## Link to the original document
 [Constitution Version 8.1](https://docs.google.com/document/d/1UwkCUkd0uVJIdDCRGmv1wF_liAmpRIES2cIlazAVHOY/edit?usp=sharingrl)
