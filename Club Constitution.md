@@ -43,7 +43,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - Business & Marketing Department
 - Controls Department
 - Logistics Department
-- Mechanical Officer
+- Mechanical Department
 - Safety Department
 - Strategy Department
    
