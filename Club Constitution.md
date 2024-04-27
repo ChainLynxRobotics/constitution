@@ -36,7 +36,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - Safety Officer
 - Strategy Officer
 
-## The election will be held according to the rules set out in the election rules document: [ChainLynx Election Rules](https://docs.google.com/document/d/1MgXhKMtcFllOEQnpebKyiydfdwL2ZO5Uc3c27lg-qgo/edit?usp=sharing)
+## The election will be held according to the Election Rules
 
 # Article 4 - Departments
 ## The team has 6 departments
@@ -48,10 +48,28 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - Strategy Department
    
 # Article 5 - Powers of the constitution 
-## The team’s Lead Coaches can overrule the constitution at any time for as long as required via an emergency declaration.
+- The team’s Lead Coaches can overrule the constitution at any time for as long as required via an emergency declaration.
+- Emergency declarations and actions may be declared with the permission of the team’s Lead Coaches and must be announced to the team and added to the bottom of the constitution
+- All linked documents can be changed using the Amendment Rules
 
-## The constitution cannot be changed for any reason unless changed by an amendment using [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
+# Article 6 - Voting Rules
+## Vote options
+- “In favor” this is a vote in the positive and means that the person voting is for the option stated
+- “Against” this is a vote in the negative and means that the person voting is against the option stated
+- “Abstain” this is a vote in the neutral it is neither positive or negative but is still an official vote that means that the person voting is in the neutral on the option stated
+- “Absent” this is not a vote and means that the person was unable to vote; it does not count in votes that need a set amount of the club in attendance.
 
-## Emergency declarations and actions may be declared with the permission of the team’s Lead Coaches and must be announced to the team and added to the bottom of the constitution 
+## Amendments
+- 2/3rds of all active members must approve to change the constitution
+- An amendment must benefit the team and can’t single out a single person for any reason.
 
-## All linked documents can be changed using the amendment rules section of the [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
+## Elections
+- You can’t bribe, threaten or coerce people to vote for you or your preferred candidate, but you are allowed to support a campaign 
+- You can endorse and discuss candidates in a public forum
+- Use resources that are available to all (as approved by coaches)
+- Platforms are allowed to be a maximum of 250 words
+- You can’t publicly slander or disrespect people
+- If a candidate breaks any of the election rules, they are removed from the ballot
+- If a team member who is not running in the election breaks any of the election rules, their punishment will be decided on a case by case basis by the coaches or administration
+- No student, coach, or mentor can pressure someone into running, either in general or for a specific position
+- These rules can be changed at any time via the team’s process for making an amendment (a member proposes a change, and then a ⅔ vote of all active members is required to confirm the change). However, the rules for an election are locked on the date the election is announced, and no changes to the election rules may be ratified until after that election has concluded and the results have been announced.
