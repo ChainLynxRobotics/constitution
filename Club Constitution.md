@@ -25,9 +25,15 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - Has signed the constitution 
 - A member may choose to go on hiatus and will still receive alerts and messages but can’t vote
 
-# Article 3 - Elections of Officers
+# Article 3 - Team Structure
+## The team is organized as such:
+- The **President** coordinates officers
+- The other **Officers** manage their departments
+- **Officers** establish **Leads**
+- **Leads** manage their groups
+- **Members** work within their groups
+  
 ## The team has 7 officers
-
 - President
 - Business & Marketing Officer
 - Controls Officer
@@ -36,18 +42,27 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - Safety Officer
 - Strategy Officer
 
-## The election will be held according to the rules set out in the election rules document: [ChainLynx Election Rules](https://docs.google.com/document/d/1MgXhKMtcFllOEQnpebKyiydfdwL2ZO5Uc3c27lg-qgo/edit?usp=sharing)
-
-# Article 4 - Departments
-## The team has 6 departments
+## The latter 6 officers correspond to departments
 - Business & Marketing Department
 - Controls Department
 - Logistics Department
 - Mechanical Department
 - Safety Department
 - Strategy Department
+
+## Leads are established in each department
+- Leads are created per that department's charter
+- Leads are appointed by the respective officer
+- Leads are reconciled with all officers to avoid conflict
+
+## Restrictions
+- A member may only hold one officer or lead position
+- Lead positions may remain unfilled, but only if the department does not have enough members to fill them 
+
+## The election will be held according to the rules set out in the election rules document: [ChainLynx Election Rules](https://docs.google.com/document/d/1MgXhKMtcFllOEQnpebKyiydfdwL2ZO5Uc3c27lg-qgo/edit?usp=sharing)
+
    
-# Article 5 - Powers of the constitution 
+# Article 4 - Powers of the constitution 
 ## The team’s Lead Coaches can overrule the constitution at any time for as long as required via an emergency declaration.
 
 ## The constitution cannot be changed for any reason unless changed by an amendment using [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
