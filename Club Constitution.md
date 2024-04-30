@@ -37,6 +37,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - Strategy Officer
 
 ## The election will be held according to the Election Rules
+- The appointment process of the safety officer has not been officially decided
 
 # Article 4 - Departments
 ## The team has 6 departments
@@ -53,7 +54,7 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - All linked documents can be changed using the Amendment Rules
 
 # Article 6 - Voting Rules
-## Vote options
+## Voting options
 - “In favor” this is a vote in the positive and means that the person voting is for the option stated
 - “Against” this is a vote in the negative and means that the person voting is against the option stated
 - “Abstain” this is a vote in the neutral it is neither positive or negative but is still an official vote that means that the person voting is in the neutral on the option stated
@@ -64,6 +65,29 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - An amendment must benefit the team and can’t single out a single person for any reason.
 
 ## Elections
+### General
+- The club will hold elections at the end of the school year during a meeting, be it online or in person, the time and place of which has been agreed upon in a previous meeting.
+- The team must be through the ranked-choice voting system, using the 3 step process:
+1. The voter’s first choice is counted first. If after counting all the first place votes a candidate has an outright majority, that’s it. The candidate is elected.
+2. If no candidate has a majority, the candidate with the fewest first place votes is eliminated first. Those votes are transferred to the second choice on the ballot. 
+3. The process repeats itself as needed until a candidate has a majority and is declared the winner.
+- Those who are tied have a runoff vote immediately if it is happening in person or new ballots are sent out immediately with 3 days for them to be finished if it is electronic.
+- Every election the president has to make sure a guide of how to vote and everyone running is distributed to everyone participating
+- The club mentors and/or the club president and/or another third party as agreed upon in a previous meeting run the election
+
+
+### Timeline
+- Part 1: Candidate sign up week
+- Day 1: the team must announce team wide that elections are happening and what officer positions are open and a description of those positions. All members then have 1 week to sign up to run and turn in a platform of who they are, why they should be elected, what they would do as officer, and a photo of themselves. 
+- Day 7: All members who want to run must have signed up and turned in their platform.
+
+- Part 2: Election week
+- Day 1: The team must release all candidate platforms to the whole club and alert the whole of the team that the ballots close at the end of the 7 days.
+- Day 7: Ballots close and the coaches count votes to decide who has won.
+
+
+
+### Conduct
 - You can’t bribe, threaten or coerce people to vote for you or your preferred candidate, but you are allowed to support a campaign 
 - You can endorse and discuss candidates in a public forum
 - Use resources that are available to all (as approved by coaches)
