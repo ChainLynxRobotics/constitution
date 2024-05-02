@@ -29,9 +29,8 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 ## The team has 7 officers
 
 - President
-- Business & Marketing Officer
+- Logistics & Marketing & Business Officer
 - Controls Officer
-- Logistics Officer
 - Mechanical Officer
 - Safety Officer
 - Strategy Officer
@@ -40,9 +39,8 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 
 # Article 4 - Departments
 ## The team has 6 departments
-- Business & Marketing Department
+- Logistics & Marketing & Business (LiMBs) Department
 - Controls Department
-- Logistics Department
 - Mechanical Department
 - Safety Department
 - Strategy Department
