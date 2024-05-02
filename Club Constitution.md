@@ -26,10 +26,11 @@ We, the students, for the promotion of good government, good sportsmanship, stud
 - A member may choose to go on hiatus and will still receive alerts and messages but can’t vote
 
 # Article 3 - Elections of Officers
-## The team has 7 officers
+## The team has 8 officers
 
 - President
 - Logistics & Marketing & Business Officer
+- Vice President
 - Controls Officer
 - Mechanical Officer
 - Safety Officer
