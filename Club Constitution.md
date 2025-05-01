@@ -1,58 +1,36 @@
+# 1 Mission 
+1. The mission of ChainLynx is to inspire young people to be leaders and innovators by providing opportunities where they can learn and grow their technical skills while learning life-long lessons.
 
+# 2 Constitution & Amendments
+1. This constitution outlines the structure of ChainLynx and takes precedence over all other organizing documents should they conflict.
+2. This constitution may be supported by additional organizing documents that do not require the majority vote of the team to modify.
+3. This constitution may only be changed by amendment.
+4. Amendments shall be submitted as a GitHub Pull Request to the constitution repository, approved once a vote has been taken among the Active Members of ChainLynx.
+5. If a majority of Active Members of ChainLynx vote in favor of an amendment, the constitution shall be amended with the updated information.
+6. This constitution shall be made available to the public at all times.
+7. The Coaches may decide, using their best judgement, to bypass the powers of the constitution until such time as the situation changes to allow the powers of the constitution to return to force.
 
-# Preamble
-We, the students, for the promotion of good government, good sportsmanship, student activities, and the general welfare of the students of Lincoln High School, establish this Constitution of ChainLynx.
+# 3 Membership & Attendance
+## 3.1 Membership
+1. Any Lincoln High School student may petition to become a member of ChainLynx. If a student meets all Lincoln High School and ChainLynx rules the student shall be admitted into ChainLynx as a member.
+2. Any student at a local high school with an existing FIRST team may petition to become a member of ChainLynx. If that student receives authorization from their the Head Coach of their high school's FIRST team, as well as authorization from the Head Coach of Chainlynx, they may be admitted into ChainLynx as a member.
+3. Any student at a local high school without an existing FIRST team may petition to become a member of ChainLynx. If that student receives authorization from the Head Coach of ChainLynx, they may be admitted into ChainLynx as a member.
+## 3.2 Attendance
+1. Active Members of ChainLynx are members who have been to 50% of meetings within the last month, are actively engaged with the team, and are in good academic standing with Lincoln High School, or their respective school.
+2. All members of ChainLynx must have an ASB Card from Lincoln High School to remain members, unless they do not attend Lincoln High School.
 
-# Article 1 - Name and Purpose of Organization
-## Name:
+# 4 Leadership & Elections
+## 4.1 Leadership
+1. There shall be officers in the following positions, elected from Active Members of ChainLynx: President, Vice-President, Business & Marketing Officer, Controls Officer, Logistics Officer, Mechanical Officer, Safety Officer, and the Strategy Officer.
+2. The positions of President, Vice-President, Business & Marketing Officer, Controls Officer, Logicstics Officer Mechanical Officer, and Strategy Officer shall be filled by election.
+3. The position of Safety Officer shall be filled by appointment by the newly elected leadership team, the appointment to be complete by October 1st.
+4. Officers may choose to appoint sub-leads within their department to delegate leadership responsibilities to.
+5. Officers are part of Team Leadership, and are vested with all powers to manage ChainLynx at their discretion.
 
-- It is resolved that the name of this organization of Lincoln High School shall be “ChainLynx” 
+## 4.2 Elections
+1. Elections shall take place during the month of May, and must be complete before the yearly Banquet.
+2. Voting shall be conducted with a Ranked Choice structure, with the Coaches and Mentors running the election and counting votes.
+3. Any Active Members of ChainLynx at the time of the election announcement are eligable to vote.
 
-## Purpose:
-
-- To inspire young people to be leaders and innovators, by engaging them in exciting mentor-based programs. 
-- To build science, engineering, and technology skills, and inspire innovation.
-- To foster well-rounded life capabilities including self-confidence, communication, and leadership.
-- To create a place for students who are interested in designing, building, coding, and business and to explore their interests and give them skills that can contribute to their careers.
-- To bring attention to STEM Careers and Pathways.
-- To provide students the opportunity to develop their financial, engineering and computer science skills.
-
-# Article 2 - Membership & Eligibility
-## Active club members are those who:
-
-- Follows team rules
-- Submits one renewal form a month
-- Has signed the constitution 
-- A member may choose to go on hiatus and will still receive alerts and messages but can’t vote
-
-# Article 3 - Elections of Officers
-## The team has 8 officers
-
-- President
-- Vice President
-- Business & Marketing Officer
-- Controls Officer
-- Logistics Officer
-- Mechanical Officer
-- Safety Officer
-- Strategy Officer
-
-## The election will be held according to the rules set out in the election rules document: [ChainLynx Election Rules](https://docs.google.com/document/d/1MgXhKMtcFllOEQnpebKyiydfdwL2ZO5Uc3c27lg-qgo/edit?usp=sharing)
-
-# Article 4 - Departments
-## The team has 6 departments
-- Business & Marketing Department
-- Controls Department
-- Logistics Department
-- Mechanical Department
-- Safety Department
-- Strategy Department
-   
-# Article 5 - Powers of the constitution 
-## The team’s Lead Coaches can overrule the constitution at any time for as long as required via an emergency declaration.
-
-## The constitution cannot be changed for any reason unless changed by an amendment using [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
-
-## Emergency declarations and actions may be declared with the permission of the team’s Lead Coaches and must be announced to the team and added to the bottom of the constitution 
-
-## All linked documents can be changed using the amendment rules section of the [ChainLynx Voting Rules](https://docs.google.com/document/d/1_I0oJR-JqLJ4lSmEfqNhDtYm1gS4JBjZb92E0pBHWZY/edit#) document
+# 5 - Departments
+1. ChainLynx shall have the following departments, led by the officer with the same title: Business & Marketing, Controls, Logistics, Mechanical, Safety, and Strategy.
