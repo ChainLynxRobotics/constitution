@@ -21,8 +21,8 @@
 
 # 4 Leadership & Elections
 ## 4.1 Leadership
-1. There shall be officers in the following positions, elected from Active Members of ChainLynx: President, Vice-President, Business & Marketing Officer, Controls Officer, Mechanical Officer, Safety Officer, and the Strategy Officer.
-2. The positions of President, Vice-President, Business & Marketing Officer, Controls Officer, Mechanical Officer, and Strategy Officer shall be filled by election.
+1. There shall be officers in the following positions, elected from Active Members of ChainLynx: President, Vice-President, Business & Marketing Officer, Controls Officer, Logistics Officer, Mechanical Officer, Safety Officer, and the Strategy Officer.
+2. The positions of President, Vice-President, Business & Marketing Officer, Controls Officer, Logicstics Officer Mechanical Officer, and Strategy Officer shall be filled by election.
 3. The position of Safety Officer shall be filled by appointment by the newly elected leadership team, the appointment to be complete by October 1st.
 4. Officers may choose to appoint sub-leads within their department to delegate leadership responsibilities to.
 5. Officers are part of Team Leadership, and are vested with all powers to manage ChainLynx at their discretion.
@@ -33,4 +33,4 @@
 3. Any Active Members of ChainLynx at the time of the election announcement are eligable to vote.
 
 # 5 - Departments
-1. ChainLynx shall have the following departments, led by the officer with the same title: Business & Marketing, Controls, Mechanical, Safety, and Strategy.
+1. ChainLynx shall have the following departments, led by the officer with the same title: Business & Marketing, Controls, Logistics, Mechanical, Safety, and Strategy.
