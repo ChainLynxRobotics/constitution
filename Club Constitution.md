@@ -16,8 +16,8 @@
 2. Any student at a local high school with an existing FIRST team may petition to become a member of ChainLynx. If that student receives authorization from their the Head Coach of their high school's FIRST team, as well as authorization from the Head Coach of Chainlynx, they may be admitted into ChainLynx as a member.
 3. Any student at a local high school without an existing FIRST team may petition to become a member of ChainLynx. If that student receives authorization from the Head Coach of ChainLynx, they may be admitted into ChainLynx as a member.
 ## 3.2 Attendance
-1. Active Members of ChainLynx are members who have been to 50% of meetings within the last month, are actively engaged with the team, and are in good academic standing with Lincoln High School. 
-2. All members of ChainLynx must have an ASB Card from Lincoln High School to remain members.
+1. Active Members of ChainLynx are members who have been to 50% of meetings within the last month, are actively engaged with the team, and are in good academic standing with Lincoln High School, or their respective school.
+2. All members of ChainLynx must have an ASB Card from Lincoln High School to remain members, unless they do not attend Lincoln High School.
 
 # 4 Leadership & Elections
 ## 4.1 Leadership
